@@ -1,0 +1,23 @@
+// Place all the styles related to the TasksController controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  text-decoration: none;
+}
+
+p {
+  text-decoration: none;
+}
+
+.title {
+  color : blue;
+}
+
+ul {
+  text-decoration: none;
+  color : blue;
+}
